@@ -1,0 +1,50 @@
+body
+{
+  color: white;
+  background: rgb(238, 161, 186);
+  background-image: url(https://i.pinimg.com/originals/7d/10/fe/7d10fe399d7f85db2905fb720a5b54e7.jpg);
+  background-size: cover;
+  background-position:center;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 25px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  font-size: 20px;
+  background-color: rgb(235, 123, 192);
+  color: rebeccapurple;
+  padding: 10px;
+  border-radius: 10px;
+}
+button{
+  height: 50px;
+  font-size: 20px;
+  color: red;
+  font-family: Comic Sans ms;
+  border-radius: 10px;
+  padding: 10px;
+}
